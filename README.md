@@ -1,4 +1,2 @@
 # final_project
-bruh
-
-bruh: https://school-account1.github.io/final_project/
+The final project is in the consoleapp8 folder
